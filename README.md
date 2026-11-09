@@ -12,7 +12,7 @@
 Navega la carpetes del projecte i <kbd>copy</kbd> i <kbd>paste</kbd> els fitxers que t'interessin.
 
 >[!TIP]
->Com que es tracta d'un *repo* públic, pots clonar tot el codi usant la comanda `git clone https://github.com/raimonizard/kotlin.git`
+>Com que es tracta d'un *repo* públic, pots clonar tot el codi usant la comanda `git clone https://github.com/ITEC-BCN/mp03-uf2-demo-kotlin-utilities-colors.git`
 
 >[!TIP]
 >També pots descarregar-te tot el codi així: ![image](https://github.com/raimonizard/kotlin/assets/97727989/39687d98-faef-4257-b33f-f3b5748bd225)
